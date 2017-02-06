@@ -1,1 +1,1 @@
-Documentation here https://www.npmjs.com/package/steem
+Documentation here https://www.npmjs.com/package/steemlib

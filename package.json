@@ -1,6 +1,6 @@
 {
-  "name": "steemauth",
-  "version": "0.0.19",
+  "name": "steemauthlib",
+  "version": "0.0.19-1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/adcpm/steemauth.git"
+    "url": "git+https://github.com/esteemapp/steemauth.git"
   },
   "keywords": [
     "steem",
@@ -35,6 +35,6 @@
     "Nilesh Suthar (https://github.com/nil1511)"
   ],
   "devDependencies": {
-    "steem": "^0.3.17"
+    "steemlib": "^0.4.6-1"
   }
 }
